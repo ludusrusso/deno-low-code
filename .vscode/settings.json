@@ -1,0 +1,5 @@
+{
+  "deno.enable": true,
+  "lit-html.format.enabled": true,
+  "lit-html.tags": ["js", "javascript"]
+}
